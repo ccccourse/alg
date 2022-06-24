@@ -32,20 +32,10 @@ $$
 $$
 
 $$
-& x=f(x)+x \\
-x^2=f(x)+x^2 \qquad & x=(f(x)+x^2)/x \\
-3x^3=f(x)+3x^3 \qquad & x=(f(x)+3x^3)/(3x^2) \\
-f(x)/4=0 \qquad & x= x-f(x)/4
-$$
-
-$$
 \begin{aligned}
 & x=f(x)+x \\
-
 x^2=f(x)+x^2 \qquad & x=(f(x)+x^2)/x \\
-
 3x^3=f(x)+3x^3 \qquad & x=(f(x)+3x^3)/(3x^2) \\
-
 f(x)/4=0 \qquad & x= x-f(x)/4
 \end{aligned}
 $$
