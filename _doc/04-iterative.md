@@ -28,10 +28,6 @@ x[k+1] =f(x[k])
 當然、迭代的形式不只一種， 對於 f(x)=0，以下都是可以用的迭代形式。
 
 $$
-\int f(x) dx
-$$
-
-$$
 \begin{aligned}
 & x=f(x)+x \\
 x^2=f(x)+x^2 \qquad & x=(f(x)+x^2)/x \\
